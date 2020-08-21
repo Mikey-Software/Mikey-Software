@@ -5,7 +5,9 @@
 
 
 ### 💻 Technologies
-
-Frontend: Html5, Css3, React, Vue, 
+- Front-end Development using **HTML5, CSS3, Javascript, Sass, React, Redux, NextJS, Vue, Vuex, Nuxt**
+- Back-end Development using **NodeJS, Express, MongoDB, Mongoose, PostgreSQL, Sequelize, Redis**
+- Developement Operations using **Linux, Ubuntu, Nginx, Apache, Digital Ocean**
+- Development Tooling using **NodeJS, Express, MongoDB, Mongoose, PostgreSQL, Sequelize**
 
 ### 📬 Find Me 
