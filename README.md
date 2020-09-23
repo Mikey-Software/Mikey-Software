@@ -1,4 +1,4 @@
-## Hey, I'm [Everton Michael](https://www.evertonmichael.dev) ⚡
+## I'm [Everton Michael](https://www.evertonmichael.dev) ⚡
 
 
 ### 💼 Experience
