@@ -2,7 +2,7 @@
 
 
 ### 💼 Experience
-4 Years of Fullstack Web Development.
+2+ Years of Fullstack Web Development.
 
 I build stuff with javascript pretty much.
 
