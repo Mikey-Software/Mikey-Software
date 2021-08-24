@@ -6,7 +6,7 @@
 
 Legendary Keyboard Warrior.
 
-![image]({https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black})
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 
 <!-- ### 💻 Technologies
 - Front-end Development: **HTML5, CSS3, Javascript, Sass, React, Redux, NextJS, Vue, Vuex, Nuxt**
