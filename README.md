@@ -2,9 +2,11 @@
 
 
 ### 💼 Experience
-2+ Years of Fullstack Web Development.
+4+ Years - Fullstack Software Engineer.
 
-I build stuff with javascript pretty much.
+Legendary Keyboard Warrior.
+
+![image]({https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black})
 
 <!-- ### 💻 Technologies
 - Front-end Development: **HTML5, CSS3, Javascript, Sass, React, Redux, NextJS, Vue, Vuex, Nuxt**
