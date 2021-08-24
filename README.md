@@ -22,6 +22,8 @@ Legendary Keyboard Warrior.
 <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /> <!-- React Native -->
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" /> <!-- NodeJS -->
 <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" /> <!-- Express -->
+<img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" /> <!-- Jest -->
+<img src="https://img.shields.io/badge/Socket.io-010101?&style=for-the-badge&logo=Socket.io&logoColor=white" /> <!-- Socket IO -->
 
 #### Database
 <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" /> <!-- PostgreSQL -->
@@ -40,9 +42,9 @@ Legendary Keyboard Warrior.
 <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" /> <!-- NGINX -->
 
 #### Documentation
-<img src="https://img.shields.io/badge/GitBook-7B36ED?style=for-the-badge&logo=gitbook&logoColor=white" /> <!-- GitBook -->
 <img src="https://img.shields.io/badge/storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white" /> <!-- StorybookJS -->
 <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=Swagger&logoColor=white" /> <!-- Swagger -->
+<img src="https://img.shields.io/badge/GitBook-7B36ED?style=for-the-badge&logo=gitbook&logoColor=white" /> <!-- GitBook -->
 
 <!-- ### 💻 Technologies
 - Front-end Development: **HTML5, CSS3, Javascript, Sass, React, Redux, NextJS, Vue, Vuex, Nuxt**
