@@ -12,6 +12,11 @@ Legendary Keyboard Warrior.
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /> <!-- JavaScript -->
 <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" /> <!-- TypeScript -->
 
+#### Frameworks
+<img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /> <!-- React Native -->
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" /> <!-- NodeJS -->
+<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" /> <!-- Express -->
+
 #### Database
 <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" /> <!-- PostgreSQL -->
 <img src="https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white" /> <!-- Redis -->
@@ -19,6 +24,13 @@ Legendary Keyboard Warrior.
 <img src="https://img.shields.io/badge/rabbitmq-%23FF6600.svg?&style=for-the-badge&logo=rabbitmq&logoColor=white" /> <!-- RabbitMQ -->
 <img src="https://img.shields.io/badge/Neo4j-018bff?style=for-the-badge&logo=neo4j&logoColor=white" /> <!-- Neo4J -->
 <img src="https://img.shields.io/badge/prisma-1B222D?style=for-the-badge&logo=prisma&logoColor=white" /> <!-- Prisma -->
+
+#### Tooling
+
+#### Documentation
+<img src="https://img.shields.io/badge/GitBook-7B36ED?style=for-the-badge&logo=gitbook&logoColor=white" /> <!-- GitBook -->
+<img src="https://img.shields.io/badge/storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white" /> <!-- StorybookJS -->
+<img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=Swagger&logoColor=white" /> <!-- Swagger -->
 
 <!-- ### 💻 Technologies
 - Front-end Development: **HTML5, CSS3, Javascript, Sass, React, Redux, NextJS, Vue, Vuex, Nuxt**
