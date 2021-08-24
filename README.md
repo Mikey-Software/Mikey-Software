@@ -1,4 +1,4 @@
-## I'm [Mikey](https://mikey.software) ⚡
+## I'm Michael Cowan - [@mikeysoftware](https://mikey.software) ⚡
 
 
 ### 💼 Experience
