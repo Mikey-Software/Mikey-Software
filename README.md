@@ -3,8 +3,7 @@
 
 ### 💼 Experience
 4+ Years - Fullstack Software Engineer.
-
-Legendary Keyboard Warrior.
+Keyboard Warrior.
 
 #### Languanges
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> <!-- HTML5 -->
