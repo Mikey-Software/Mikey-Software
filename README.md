@@ -6,7 +6,7 @@
 Keyboard Warrior
 
 #### Languanges
-JavaScript, TypeScript, HTML5, CSS3, Sass
+JavaScript, TypeScript, Python, GoLang (Learning) SQL, HTML5, CSS3, Sass
 
 #### Frameworks
 React, NextJS, React Native, NodeJS, Express
