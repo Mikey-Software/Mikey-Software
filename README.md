@@ -1,4 +1,4 @@
-## Michael 'Mikey' Cowan - [@mikeysoftware](https://mikey.software) on all platforms.
+## Michael - [@mikeysoftware](https://mikey.software) on all platforms.
 NOTE: My Profile is a WIP.
 Majority of my experience/projects have been in private repositories protected by NDA.
 
